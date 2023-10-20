@@ -1,4 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Screenshot:
+<img width="1040" alt="Screenshot 2023-10-19 at 11 35 22 PM" src="https://github.com/9amcoder/node-manager-nextjs/assets/59545545/f5232170-e6d2-4e58-8e99-f0d573fe6e73">
+<br/>
+<br/>
+<img width="1494" alt="Screenshot 2023-10-19 at 11 32 39 PM" src="https://github.com/9amcoder/node-manager-nextjs/assets/59545545/958438a7-5353-4331-943b-180342eddd3d">
+<br/>
+<br/>
+<img width="1494" alt="Screenshot 2023-10-19 at 11 33 43 PM" src="https://github.com/9amcoder/node-manager-nextjs/assets/59545545/29b85814-256c-4058-9537-6346a35d9c9a">
+
+
 
 ## Getting Started
 
